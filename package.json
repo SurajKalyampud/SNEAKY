@@ -1,5 +1,5 @@
 {
-  "homepage": "https://surajkalyampud.github.io/SNEAKY/",
+  "homepage": "https://surajkalyampud.github.io/SNEAKY",
   "name": "day1",
   "version": "0.1.0",
   "private": true,
@@ -50,6 +50,6 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@babel/plugin-transform-private-property-in-object": "^7.22.11",
     "@babel/preset-env": "7.22.5",
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
